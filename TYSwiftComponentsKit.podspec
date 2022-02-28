@@ -19,7 +19,7 @@ Pod::Spec.new do |spec|
 
   #目標限定在11.0以上
   spec.ios.deployment_target = '11.0'
-  spec.swift_version = ['4.2', '5.0', '5.1', '5.2', '5.3']
+  spec.swift_version = ['4.2', '5.0', '5.1', '5.2', '5.3', '5.4']
   
   spec.subspec 'TYSegmentedControl' do |ui|
     # 指定在pod install下载的内容
