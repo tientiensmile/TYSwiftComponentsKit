@@ -13,7 +13,7 @@ Pod::Spec.new do |spec|
   spec.summary      = "A framework contains common UI components in Swift."
   spec.description  = "TYSwiftComponentsKit is a small and lightweight Swift framework including many common UI components"
   spec.homepage     = "https://github.com/tientiensmile/TYSwiftComponentsKit"
-  spec.license      = { :type => "MIT", :file => "FILE_LICENSE" }
+  spec.license      = { :type => "MIT", :file => "LICENSE" }
   spec.author       = { "AudreyWang" => "audreywang8216@gmail.com" }
   spec.source       = { :git => "https://github.com/tientiensmile/TYSwiftComponentsKit.git", :tag => spec.version }
 
