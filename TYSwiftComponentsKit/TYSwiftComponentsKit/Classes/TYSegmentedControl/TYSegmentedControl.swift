@@ -11,7 +11,7 @@ import UIKit
 public protocol TYSegmentControlDelegate: AnyObject {
     
     /// 點擊時
-    func didTap(index: Int, segment: TYCustomSegmentControl)
+    func didTap(index: Int, segment: TYSegmentedControl)
 
 }
 
